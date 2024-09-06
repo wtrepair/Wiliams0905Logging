@@ -27,7 +27,7 @@ const WillaimsLogging: NextPage = () => {
               </b>
               <div className="w-[856px] flex flex-col items-start justify-start max-w-full text-base-8 text-gray font-inter">
                 <div className="self-stretch relative leading-[26px]">
-                  Williams Logging uses advanced technology, like the Integrated
+                  A.R. Williams Logging uses advanced technology, like the Integrated
                   Base Control (IBC) system, to make our logging operations
                   faster and more precise. This system helps our machines run
                   more smoothly and reduces strain on the operators. Even if an

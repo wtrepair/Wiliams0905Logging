@@ -42,14 +42,14 @@ const Section: NextPage<SectionType> = ({ className = "" }) => {
           <div className="flex-1 flex flex-col items-start justify-start gap-[37px] min-w-[335px] max-w-full mq750:gap-[18px]">
             <b className="self-stretch relative leading-[60px] mq450:text-19xl mq450:leading-[36px] mq1050:text-32xl mq1050:leading-[48px]">
               <p className="m-0">{`Welcome to `}</p>
-              <p className="m-0">WILLIAMS A.R LOGGING</p>
+              <p className="m-0">A.R. WILLIAMS LOGGING</p>
             </b>
             <div className="self-stretch flex flex-col items-start justify-start text-justify text-base-8 text-gray font-inter">
               <div
                 className="self-stretch relative leading-[26px]"
                 data-scroll-to="about"
               >
-                Welcome to Williams Logging, where we blend traditional logging
+                Welcome to A.R. Williams Logging, where we blend traditional logging
                 expertise with cutting-edge technology to deliver exceptional
                 service. Our commitment to innovation and precision ensures that
                 our operations are efficient, reliable, and tailored to meet the
